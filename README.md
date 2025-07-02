@@ -8,10 +8,6 @@ You can follow the steps in [Clip4CLIP](https://github.com/ArrowLuo/CLIP4Clip#da
 
 The data directory looks like [this](./data/README.md).
 
-## 📦 Trained Model
-
-Trained models are not yet provided.
-
 ## 🚴 Training and Evaluation
 
 You can use our bash files:
@@ -46,7 +42,7 @@ main_task_retrieval.py --do_train --num_thread_reader=0 \
 --resume_model /ckpts/<name>/pytorch_opt.bin.0    # load optimizer
 ```
 
-## 🫡 Acknowledgements
+## 🙏 Acknowledgements
 
 Our code is based on CLIP4Clip: [https://github.com/ArrowLuo/CLIP4Clip](https://github.com/ArrowLuo/CLIP4Clip).
 
